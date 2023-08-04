@@ -1,4 +1,4 @@
-package tech.test;
+package questions;
 
 import java.util.Arrays;
 

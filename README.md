@@ -4,7 +4,7 @@ This repository contains my solutions to the coding challenge for the company Nu
 
 ## Questions
 
-The description of two questions are located in the [PDF file](https://github.com/joaoalcimar/nuria-challenge/Nuria-Software-Engineer-Backend.pdf).
+The description of two questions are located in the [PDF file](https://github.com/joaoalcimar/nuria-challenge/blob/master/Nuria-Software-Engineer-Backend.pdf).
 
 ## How to Run
 

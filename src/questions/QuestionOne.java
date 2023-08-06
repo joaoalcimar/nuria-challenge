@@ -112,7 +112,7 @@ public class QuestionOne {
         boolean thirdAssertion = Arrays.deepEquals(expectedOutputThree, exampleThree);
 
         if(!firstAssertion || !secondAssertion || !thirdAssertion){
-            System.out.println("Something goes wrong!!!");
+            System.out.println("Something went wrong!!!");
         }
 
         // throws exception
